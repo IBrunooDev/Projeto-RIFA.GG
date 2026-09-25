@@ -399,3 +399,13 @@ O **RIFA.GG** foi desenvolvido como um sistema de rifas para uso dentro de um se
 O projeto foi criado especificamente para o ambiente do **Legacy RP**, servindo como uma experiência prática de desenvolvimento aplicada a um servidor de roleplay.
 
 Todo o sistema nasceu nesse contexto e foi utilizado principalmente como projeto de estudo, teste e aprendizado sobre desenvolvimento web, banco de dados, backend, segurança e uso de Inteligência Artificial no processo de criação de software.
+
+- ## :link: Links
+
+- [GitHub](https://github.com/IBrunooDev)
+- [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
+- [Instagram](https://www.instagram.com/IBrunooDev/)
+---
+
+Desenvolvido com :heart: por [IBrunooDev](https://github.com/IBrunooDev) 
+© 2026 IBrunooDev. Todos os direitos reservados.
